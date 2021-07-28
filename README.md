@@ -5,9 +5,11 @@
 
     Общий случай
 
-![alt tag](https://github.com/Daniil-Budnik/COM_Port_Monitor/blob/main/Image/1.jpg?raw=true "Главное меню")
+![alt tag](https://github.com/Daniil-Budnik/Inflection-Point-in-Emission-Characteristics/blob/main/Result/Result1.png?raw=true)
 
     Исключение
+    
+![alt tag](https://github.com/Daniil-Budnik/Inflection-Point-in-Emission-Characteristics/blob/main/Result/Result21.png?raw=true)
 
 # Инструкция
 ***
