@@ -1,8 +1,9 @@
 # Inflection Point in Emission Characteristics  
-# Точка перегиба в эмиссионных характеристиках
+
+Открытое программное обеспечение по нахождению особых точек перегиба в эмиссионных характеристиках.
 
 # Пример анализируемых данных
-
+***
     Общий случай
 
 ![alt tag](https://github.com/Daniil-Budnik/Inflection-Point-in-Emission-Characteristics/blob/main/Result/Result1.png?raw=true)
@@ -10,8 +11,9 @@
     Исключение
     
 ![alt tag](https://github.com/Daniil-Budnik/Inflection-Point-in-Emission-Characteristics/blob/main/Result/Result21.png?raw=true)
+***
 
-# Инструкция
+# Инструкция для использования исходного Python скрипта
 ***
     1. Рекомендуется использовать Python 3.7 или выше
     2. Необходимо установить следующие библиотеки:
@@ -20,7 +22,6 @@
       >> pip install pandas
       >> pip install python-tk
       >> pip install console_progressbar
-      
 ***
 
 
